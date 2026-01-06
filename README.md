@@ -1,0 +1,2 @@
+# exercicios
+Códigos simples (prática)
